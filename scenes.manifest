@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2590946550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2393fb9a53b2cd88ba5d188ee7a5350f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scenes/menu.unity
+- Assets/Scenes/Shoot.unity
+- Assets/Scenes/Rules.unity
+- Assets/Scenes/Boss.unity
+- Assets/Scenes/Replay.unity
+- Assets/Scenes/user_music.unity
+Dependencies:
+- C:/AssetB/prefab
+- C:/AssetB/scripts
+- C:/AssetB/sebgm
